@@ -1,0 +1,4 @@
+1 motorola_moto_g6 28 55
+2 samsung_SM_A305G 65 87
+3 Xiaomi_Mi_A2_Lite 75 48
+4 Xiaomi_Redmi_Note_7 27 51
